@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 標題 -->
+    <TextView
+        android:text="🍔 Fast Food 點餐系統"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <!-- 顯示目前選擇 -->
+    <TextView
+        android:id="@+id/txtOrder"
+        android:text="尚未點餐"
+        android:textSize="18sp"
+        android:layout_marginBottom="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <!-- 主餐按鈕 -->
+    <Button
+        android:id="@+id/btnMainMeal"
+        android:text="選擇主餐"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- 副餐按鈕 -->
+    <Button
+        android:id="@+id/btnSideDish"
+        android:text="選擇副餐"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- 飲料按鈕 -->
+    <Button
+        android:id="@+id/btnDrink"
+        android:text="選擇飲料"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <!-- 確認訂單 -->
+    <Button
+        android:id="@+id/btnConfirm"
+        android:text="確認訂單"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
