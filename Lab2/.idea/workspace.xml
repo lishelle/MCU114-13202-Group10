@@ -16,51 +16,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5a8b463-5882-46cb-92d8-cfd0ad5d00c7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fast food/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fast food/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/androidTest/java/com/example/myapplication/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/java/com/example/myapplication/MainActivit.kt.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/java/com/example/myapplication/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/app/src/test/java/com/example/myapplication/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sharrK1_my project/my project/settings.gradle.kts" beforeDir="false" />
-    </list>
+    <list default="true" id="b5a8b463-5882-46cb-92d8-cfd0ad5d00c7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
