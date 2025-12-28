@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TarotCards1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/golden_yellow</item>
+        <item name="titleTextColor">@android:color/black</item>
+        <item name="buttonStyle">@style/GoldenButton</item>
+    </style>
+
+    <style name="Theme.TarotCards1" parent="Base.Theme.TarotCards1" />
+
+    <style name="GoldenButton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/golden_yellow</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="GoldenSwitch" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="thumbTint">@color/golden_yellow</item>
+        <item name="trackTint">@color/golden_yellow</item>
+    </style>
+
+    <style name="CardSlotContainer">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <style name="CardSlotImage">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">160dp</item>
+        <item name="android:src">@drawable/card777</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="CardSlotTitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    
+    <style name="CardSlotSeparator">
+        <item name="android:layout_width">16dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@android:drawable/ic_media_play</item> <!-- Placeholder -->
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+    
+</resources>

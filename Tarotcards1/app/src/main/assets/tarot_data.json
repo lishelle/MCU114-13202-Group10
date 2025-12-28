@@ -1,0 +1,704 @@
+[
+  {
+    "id": 0,
+    "name_cn": "愚人",
+    "name_en": "The Fool",
+    "type": "major",
+    "meaning_upright": "新的開始、冒險、天真、無拘無束",
+    "meaning_reversed": "魯莽、風險過大、不負責任、盲目",
+    "img_key": "m00"
+  },
+  {
+    "id": 1,
+    "name_cn": "魔術師",
+    "name_en": "The Magician",
+    "type": "major",
+    "meaning_upright": "創造力、顯化、技能、自信、資源俱全",
+    "meaning_reversed": "欺騙、缺乏計劃、才華被埋沒、操縱",
+    "img_key": "m01"
+  },
+  {
+    "id": 2,
+    "name_cn": "女祭司",
+    "name_en": "The High Priestess",
+    "type": "major",
+    "meaning_upright": "直覺、潛意識、神秘、內在智慧",
+    "meaning_reversed": "封閉心靈、情緒不穩、忽視直覺、膚淺",
+    "img_key": "m02"
+  },
+  {
+    "id": 3,
+    "name_cn": "皇后",
+    "name_en": "The Empress",
+    "type": "major",
+    "meaning_upright": "豐盛、母性、感官享受、自然、生產力",
+    "meaning_reversed": "依賴、創造力受阻、過度保護、貧乏",
+    "img_key": "m03"
+  },
+  {
+    "id": 4,
+    "name_cn": "皇帝",
+    "name_en": "The Emperor",
+    "type": "major",
+    "meaning_upright": "權威、結構、父親形象、領導力、穩定",
+    "meaning_reversed": "暴政、固執、缺乏紀律、濫用權力",
+    "img_key": "m04"
+  },
+  {
+    "id": 5,
+    "name_cn": "教皇",
+    "name_en": "The Hierophant",
+    "type": "major",
+    "meaning_upright": "傳統、信仰、團體規範、精神指引",
+    "meaning_reversed": "挑戰傳統、盲從、非主流觀念、束縛",
+    "img_key": "m05"
+  },
+  {
+    "id": 6,
+    "name_cn": "戀人",
+    "name_en": "The Lovers",
+    "type": "major",
+    "meaning_upright": "愛情、和諧、價值觀的選擇、結合",
+    "meaning_reversed": "不和諧、分離、錯誤的選擇、誘惑",
+    "img_key": "m06"
+  },
+  {
+    "id": 7,
+    "name_cn": "戰車",
+    "name_en": "The Chariot",
+    "type": "major",
+    "meaning_upright": "勝利、意志力、征服、自我控制",
+    "meaning_reversed": "失控、受阻、缺乏方向、衝動",
+    "img_key": "m07"
+  },
+  {
+    "id": 8,
+    "name_cn": "力量",
+    "name_en": "Fortitude",
+    "type": "major",
+    "meaning_upright": "內在力量、勇氣、耐心、以柔克剛",
+    "meaning_reversed": "軟弱、自我懷疑、恐懼、被本能控制",
+    "img_key": "m08"
+  },
+  {
+    "id": 9,
+    "name_cn": "隱士",
+    "name_en": "The Hermit",
+    "type": "major",
+    "meaning_upright": "內省、孤獨、尋求真理、指引",
+    "meaning_reversed": "孤僻、拒絕溝通、迷失方向、孤立",
+    "img_key": "m09"
+  },
+  {
+    "id": 10,
+    "name_cn": "命運之輪",
+    "name_en": "Wheel Of Fortune",
+    "type": "major",
+    "meaning_upright": "轉機、好運、業力、生命週期",
+    "meaning_reversed": "厄運、抗拒改變、週期停滯、意外",
+    "img_key": "m10"
+  },
+  {
+    "id": 11,
+    "name_cn": "正義",
+    "name_en": "Justice",
+    "type": "major",
+    "meaning_upright": "公平、真相、法律、因果報應",
+    "meaning_reversed": "不公、偏見、逃避責任、法律糾紛",
+    "img_key": "m11"
+  },
+  {
+    "id": 12,
+    "name_cn": "吊人",
+    "name_en": "The Hanged Man",
+    "type": "major",
+    "meaning_upright": "犧牲、換位思考、暫停、等待",
+    "meaning_reversed": "無謂的犧牲、拖延、頑固、停滯不前",
+    "img_key": "m12"
+  },
+  {
+    "id": 13,
+    "name_cn": "死神",
+    "name_en": "Death",
+    "type": "major",
+    "meaning_upright": "結束、轉化、重生、斷捨離",
+    "meaning_reversed": "抗拒改變、停滯、無法釋懷、恐懼",
+    "img_key": "m13"
+  },
+  {
+    "id": 14,
+    "name_cn": "節制",
+    "name_en": "Temperance",
+    "type": "major",
+    "meaning_upright": "平衡、調和、耐心、中庸之道",
+    "meaning_reversed": "失衡、極端、缺乏耐心、過度揮霍",
+    "img_key": "m14"
+  },
+  {
+    "id": 15,
+    "name_cn": "惡魔",
+    "name_en": "The Devil",
+    "type": "major",
+    "meaning_upright": "束縛、慾望、物質主義、成癮",
+    "meaning_reversed": "解脫束縛、打破依賴、面對陰影",
+    "img_key": "m15"
+  },
+  {
+    "id": 16,
+    "name_cn": "高塔",
+    "name_en": "The Tower",
+    "type": "major",
+    "meaning_upright": "驟變、災難、崩壞、覺醒的契機",
+    "meaning_reversed": "勉強維持、避免災難但恐懼、內在崩潰",
+    "img_key": "m16"
+  },
+  {
+    "id": 17,
+    "name_cn": "星星",
+    "name_en": "The Star",
+    "type": "major",
+    "meaning_upright": "希望、靈感、平靜、療癒",
+    "meaning_reversed": "絕望、缺乏信心、期望落空、疏離",
+    "img_key": "m17"
+  },
+  {
+    "id": 18,
+    "name_cn": "月亮",
+    "name_en": "The Moon",
+    "type": "major",
+    "meaning_upright": "幻覺、恐懼、潛意識、不安、曖昧",
+    "meaning_reversed": "揭穿謊言、恐懼減退、釐清真相",
+    "img_key": "m18"
+  },
+  {
+    "id": 19,
+    "name_cn": "太陽",
+    "name_en": "The Sun",
+    "type": "major",
+    "meaning_upright": "成功、快樂、活力、正向、榮耀",
+    "meaning_reversed": "暫時的低潮、過度樂觀、虛榮、延遲成功",
+    "img_key": "m19"
+  },
+  {
+    "id": 20,
+    "name_cn": "審判",
+    "name_en": "Judgement",
+    "type": "major",
+    "meaning_upright": "覺醒、感召、重生、做出決定",
+    "meaning_reversed": "自我懷疑、拒絕改變、後悔、錯失良機",
+    "img_key": "m20"
+  },
+  {
+    "id": 21,
+    "name_cn": "世界",
+    "name_en": "The World",
+    "type": "major",
+    "meaning_upright": "圓滿、完成、達成目標、整合",
+    "meaning_reversed": "未完成、缺乏收尾、停滯、缺憾",
+    "img_key": "m21"
+  },
+  {
+    "id": 22,
+    "name_cn": "權杖一",
+    "name_en": "Ace of Wands",
+    "type": "wands",
+    "meaning_upright": "靈感湧現、新行動、創造力",
+    "meaning_reversed": "延遲、缺乏動力、錯失機會",
+    "img_key": "w01"
+  },
+  {
+    "id": 23,
+    "name_cn": "權杖二",
+    "name_en": "Two of Wands",
+    "type": "wands",
+    "meaning_upright": "規劃、決定、展望未來",
+    "meaning_reversed": "恐懼未知、計劃不周、猶豫",
+    "img_key": "w02"
+  },
+  {
+    "id": 24,
+    "name_cn": "權杖三",
+    "name_en": "Three of Wands",
+    "type": "wands",
+    "meaning_upright": "擴展、遠見、初步成果",
+    "meaning_reversed": "障礙、延誤、貿易失敗",
+    "img_key": "w03"
+  },
+  {
+    "id": 25,
+    "name_cn": "權杖四",
+    "name_en": "Four of Wands",
+    "type": "wands",
+    "meaning_upright": "慶祝、穩定、歸屬感",
+    "meaning_reversed": "不穩定、家庭衝突、過渡期",
+    "img_key": "w04"
+  },
+  {
+    "id": 26,
+    "name_cn": "權杖五",
+    "name_en": "Five of Wands",
+    "type": "wands",
+    "meaning_upright": "競爭、衝突、混亂、挑戰",
+    "meaning_reversed": "內心矛盾、避免衝突、平息紛爭",
+    "img_key": "w05"
+  },
+  {
+    "id": 27,
+    "name_cn": "權杖六",
+    "name_en": "Six of Wands",
+    "type": "wands",
+    "meaning_upright": "勝利、公眾認可、自信",
+    "meaning_reversed": "失敗、自負、名聲受損",
+    "img_key": "w06"
+  },
+  {
+    "id": 28,
+    "name_cn": "權杖七",
+    "name_en": "Seven of Wands",
+    "type": "wands",
+    "meaning_upright": "堅持立場、防衛、挑戰中獲勝",
+    "meaning_reversed": "放棄、被擊倒、不堪重負",
+    "img_key": "w07"
+  },
+  {
+    "id": 29,
+    "name_cn": "權杖八",
+    "name_en": "Eight of Wands",
+    "type": "wands",
+    "meaning_upright": "迅速、行動、消息傳來",
+    "meaning_reversed": "延誤、混亂、衝動行事",
+    "img_key": "w08"
+  },
+  {
+    "id": 30,
+    "name_cn": "權杖九",
+    "name_en": "Nine of Wands",
+    "type": "wands",
+    "meaning_upright": "韌性、防禦、最後的堅持",
+    "meaning_reversed": "疲憊、固執、防衛過當",
+    "img_key": "w09"
+  },
+  {
+    "id": 31,
+    "name_cn": "權杖十",
+    "name_en": "Ten of Wands",
+    "type": "wands",
+    "meaning_upright": "負擔、責任重、壓力",
+    "meaning_reversed": "崩潰、卸下重擔、壓力過大",
+    "img_key": "w10"
+  },
+  {
+    "id": 32,
+    "name_cn": "權杖侍者",
+    "name_en": "Page of Wands",
+    "type": "wands",
+    "meaning_upright": "新消息、探索、充滿熱情",
+    "meaning_reversed": "壞消息、三分鐘熱度、幼稚",
+    "img_key": "w11"
+  },
+  {
+    "id": 33,
+    "name_cn": "權杖騎士",
+    "name_en": "Knight of Wands",
+    "type": "wands",
+    "meaning_upright": "行動力強、冒險、衝動",
+    "meaning_reversed": "魯莽、急躁、分散注意力",
+    "img_key": "w12"
+  },
+  {
+    "id": 34,
+    "name_cn": "權杖皇后",
+    "name_en": "Queen of Wands",
+    "type": "wands",
+    "meaning_upright": "自信、溫暖、獨立、魅力",
+    "meaning_reversed": "嫉妒、情緒化、控制欲強",
+    "img_key": "w13"
+  },
+  {
+    "id": 35,
+    "name_cn": "權杖國王",
+    "name_en": "King of Wands",
+    "type": "wands",
+    "meaning_upright": "領導力、遠見、榮譽、創業",
+    "meaning_reversed": "專橫、衝動、無能的領導",
+    "img_key": "w14"
+  },
+  {
+    "id": 36,
+    "name_cn": "聖杯一",
+    "name_en": "Ace of Cups",
+    "type": "cups",
+    "meaning_upright": "新戀情、情感滿溢、直覺",
+    "meaning_reversed": "情感受阻、空虛、失落",
+    "img_key": "c01"
+  },
+  {
+    "id": 37,
+    "name_cn": "聖杯二",
+    "name_en": "Two of Cups",
+    "type": "cups",
+    "meaning_upright": "連結、伴侶關係、平等",
+    "meaning_reversed": "不和、分手、溝通不良",
+    "img_key": "c02"
+  },
+  {
+    "id": 38,
+    "name_cn": "聖杯三",
+    "name_en": "Three of Cups",
+    "type": "cups",
+    "meaning_upright": "聚會、友誼、慶祝",
+    "meaning_reversed": "樂極生悲、小團體、劈腿",
+    "img_key": "c03"
+  },
+  {
+    "id": 39,
+    "name_cn": "聖杯四",
+    "name_en": "Four of Cups",
+    "type": "cups",
+    "meaning_upright": "倦怠、冷漠、錯失機會",
+    "meaning_reversed": "覺醒、接受新機會、打破停滯",
+    "img_key": "c04"
+  },
+  {
+    "id": 40,
+    "name_cn": "聖杯五",
+    "name_en": "Five of Cups",
+    "type": "cups",
+    "meaning_upright": "悲傷、失落、專注於失去",
+    "meaning_reversed": "走出傷痛、接受現實、希望",
+    "img_key": "c05"
+  },
+  {
+    "id": 41,
+    "name_cn": "聖杯六",
+    "name_en": "Six of Cups",
+    "type": "cups",
+    "meaning_upright": "回憶、懷舊、單純的快樂",
+    "meaning_reversed": "沉溺過去、無法長大、遺忘",
+    "img_key": "c06"
+  },
+  {
+    "id": 42,
+    "name_cn": "聖杯七",
+    "name_en": "Seven of Cups",
+    "type": "cups",
+    "meaning_upright": "幻想、選擇多、迷惘",
+    "meaning_reversed": "認清現實、做出選擇、幻滅",
+    "img_key": "c07"
+  },
+  {
+    "id": 43,
+    "name_cn": "聖杯八",
+    "name_en": "Eight of Cups",
+    "type": "cups",
+    "meaning_upright": "尋找更高層次、離開、放棄",
+    "meaning_reversed": "猶豫不決、害怕改變、停留",
+    "img_key": "c08"
+  },
+  {
+    "id": 44,
+    "name_cn": "聖杯九",
+    "name_en": "Nine of Cups",
+    "type": "cups",
+    "meaning_upright": "願望成真、滿足、享受",
+    "meaning_reversed": "貪婪、自滿、表面快樂",
+    "img_key": "c09"
+  },
+  {
+    "id": 45,
+    "name_cn": "聖杯十",
+    "name_en": "Ten of Cups",
+    "type": "cups",
+    "meaning_upright": "家庭幸福、圓滿、情感和諧",
+    "meaning_reversed": "家庭失和、破裂、虛假的平靜",
+    "img_key": "c10"
+  },
+  {
+    "id": 46,
+    "name_cn": "聖杯侍者",
+    "name_en": "Page of Cups",
+    "type": "cups",
+    "meaning_upright": "情感訊息、直覺敏銳、創意",
+    "meaning_reversed": "壞消息、情感幼稚、依賴",
+    "img_key": "c11"
+  },
+  {
+    "id": 47,
+    "name_cn": "聖杯騎士",
+    "name_en": "Knight of Cups",
+    "type": "cups",
+    "meaning_upright": "浪漫、追求、理想主義",
+    "meaning_reversed": "情緒化、欺騙、不切實際",
+    "img_key": "c12"
+  },
+  {
+    "id": 48,
+    "name_cn": "聖杯皇后",
+    "name_en": "Queen of Cups",
+    "type": "cups",
+    "meaning_upright": "慈愛、同理心、直覺",
+    "meaning_reversed": "情緒勒索、依賴、憂鬱",
+    "img_key": "c13"
+  },
+  {
+    "id": 49,
+    "name_cn": "聖杯國王",
+    "name_en": "King of Cups",
+    "type": "cups",
+    "meaning_upright": "情緒成熟、掌控情感、寬容",
+    "meaning_reversed": "情緒失控、冷酷、操縱情感",
+    "img_key": "c14"
+  },
+  {
+    "id": 50,
+    "name_cn": "寶劍一",
+    "name_en": "Ace of Swords",
+    "type": "swords",
+    "meaning_upright": "清晰、突破、新想法、真相",
+    "meaning_reversed": "混亂、思緒不清、殘酷",
+    "img_key": "s01"
+  },
+  {
+    "id": 51,
+    "name_cn": "寶劍二",
+    "name_en": "Two of Swords",
+    "type": "swords",
+    "meaning_upright": "僵局、逃避選擇、封閉",
+    "meaning_reversed": "揭露真相、做出決定、混亂",
+    "img_key": "s02"
+  },
+  {
+    "id": 52,
+    "name_cn": "寶劍三",
+    "name_en": "Three of Swords",
+    "type": "swords",
+    "meaning_upright": "心碎、悲傷、背叛",
+    "meaning_reversed": "釋放痛苦、療癒、拒絕接受",
+    "img_key": "s03"
+  },
+  {
+    "id": 53,
+    "name_cn": "寶劍四",
+    "name_en": "Four of Swords",
+    "type": "swords",
+    "meaning_upright": "休息、沉思、恢復",
+    "meaning_reversed": "過勞、被迫休息、覺醒",
+    "img_key": "s04"
+  },
+  {
+    "id": 54,
+    "name_cn": "寶劍五",
+    "name_en": "Five of Swords",
+    "type": "swords",
+    "meaning_upright": "爭執、空洞的勝利、自私",
+    "meaning_reversed": "解決衝突、和解、羞辱",
+    "img_key": "s05"
+  },
+  {
+    "id": 55,
+    "name_cn": "寶劍六",
+    "name_en": "Six of Swords",
+    "type": "swords",
+    "meaning_upright": "過渡期、療癒之旅、遠離痛苦",
+    "meaning_reversed": "無法擺脫、困境依舊、抗拒改變",
+    "img_key": "s06"
+  },
+  {
+    "id": 56,
+    "name_cn": "寶劍七",
+    "name_en": "Seven of Swords",
+    "type": "swords",
+    "meaning_upright": "策略、欺騙、偷竊、隱瞞",
+    "meaning_reversed": "揭穿謊言、坦白、良心發現",
+    "img_key": "s07"
+  },
+  {
+    "id": 57,
+    "name_cn": "寶劍八",
+    "name_en": "Eight of Swords",
+    "type": "swords",
+    "meaning_upright": "束縛、受害者心態、無力感",
+    "meaning_reversed": "解脫、思想解放、面對現實",
+    "img_key": "s08"
+  },
+  {
+    "id": 58,
+    "name_cn": "寶劍九",
+    "name_en": "Nine of Swords",
+    "type": "swords",
+    "meaning_upright": "焦慮、噩夢、絕望",
+    "meaning_reversed": "恐懼減輕、尋求幫助、極度崩潰",
+    "img_key": "s09"
+  },
+  {
+    "id": 59,
+    "name_cn": "寶劍十",
+    "name_en": "Ten of Swords",
+    "type": "swords",
+    "meaning_upright": "痛苦結束、徹底失敗、背叛",
+    "meaning_reversed": "復原中、否認痛苦、最壞已過",
+    "img_key": "s10"
+  },
+  {
+    "id": 60,
+    "name_cn": "寶劍侍者",
+    "name_en": "Page of Swords",
+    "type": "swords",
+    "meaning_upright": "觀察、好奇、機智、八卦",
+    "meaning_reversed": "多疑、散播謠言、說話尖銳",
+    "img_key": "s11"
+  },
+  {
+    "id": 61,
+    "name_cn": "寶劍騎士",
+    "name_en": "Knight of Swords",
+    "type": "swords",
+    "meaning_upright": "迅速、直接、果斷、激進",
+    "meaning_reversed": "魯莽、言語暴力、衝動",
+    "img_key": "s12"
+  },
+  {
+    "id": 62,
+    "name_cn": "寶劍皇后",
+    "name_en": "Queen of Swords",
+    "type": "swords",
+    "meaning_upright": "獨立、客觀、敏銳、界線",
+    "meaning_reversed": "冷酷、尖酸刻薄、孤立",
+    "img_key": "s13"
+  },
+  {
+    "id": 63,
+    "name_cn": "寶劍國王",
+    "name_en": "King of Swords",
+    "type": "swords",
+    "meaning_upright": "理性、權威、清晰判斷",
+    "meaning_reversed": "殘忍、濫用權力、操縱",
+    "img_key": "s14"
+  },
+  {
+    "id": 64,
+    "name_cn": "星幣一",
+    "name_en": "Ace of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "財富機會、新工作、實質回報",
+    "meaning_reversed": "錯失機會、貪婪、財務損失",
+    "img_key": "p01"
+  },
+  {
+    "id": 65,
+    "name_cn": "星幣二",
+    "name_en": "Two of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "平衡、適應、資金周轉",
+    "meaning_reversed": "失衡、財務混亂、過度承諾",
+    "img_key": "p02"
+  },
+  {
+    "id": 66,
+    "name_cn": "星幣三",
+    "name_en": "Three of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "團隊合作、專業技能、學習",
+    "meaning_reversed": "缺乏合作、工作懶散、品質差",
+    "img_key": "p03"
+  },
+  {
+    "id": 67,
+    "name_cn": "星幣四",
+    "name_en": "Four of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "守財、控制、安全感",
+    "meaning_reversed": "貪婪、財務危機、放手",
+    "img_key": "p04"
+  },
+  {
+    "id": 68,
+    "name_cn": "星幣五",
+    "name_en": "Five of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "貧窮、孤立、物質匱乏",
+    "meaning_reversed": "財務改善、尋求幫助、精神貧乏",
+    "img_key": "p05"
+  },
+  {
+    "id": 69,
+    "name_cn": "星幣六",
+    "name_en": "Six of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "慷慨、慈善、給予與接受",
+    "meaning_reversed": "自私、債務、不平等的關係",
+    "img_key": "p06"
+  },
+  {
+    "id": 70,
+    "name_cn": "星幣七",
+    "name_en": "Seven of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "評估成果、耐心、投資",
+    "meaning_reversed": "缺乏回報、焦慮、半途而廢",
+    "img_key": "p07"
+  },
+  {
+    "id": 71,
+    "name_cn": "星幣八",
+    "name_en": "Eight of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "專注、工匠精神、細節",
+    "meaning_reversed": "缺乏野心、粗製濫造、完美主義",
+    "img_key": "p08"
+  },
+  {
+    "id": 72,
+    "name_cn": "星幣九",
+    "name_en": "Nine of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "富足、獨立、享受成果",
+    "meaning_reversed": "依賴、虛榮、財務不穩",
+    "img_key": "p09"
+  },
+  {
+    "id": 73,
+    "name_cn": "星幣十",
+    "name_en": "Ten of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "家族財富、傳承、長期穩定",
+    "meaning_reversed": "家道中落、遺產糾紛、損失",
+    "img_key": "p10"
+  },
+  {
+    "id": 74,
+    "name_cn": "星幣侍者",
+    "name_en": "Page of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "學習機會、務實、新計畫",
+    "meaning_reversed": "缺乏進步、拖延、不切實際",
+    "img_key": "p11"
+  },
+  {
+    "id": 75,
+    "name_cn": "星幣騎士",
+    "name_en": "Knight of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "勤奮、負責、保守、穩健",
+    "meaning_reversed": "停滯、懶惰、固執、無聊",
+    "img_key": "p12"
+  },
+  {
+    "id": 76,
+    "name_cn": "星幣皇后",
+    "name_en": "Queen of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "務實、照顧、繁榮、安全感",
+    "meaning_reversed": "物質主義、忽視自我、工作狂",
+    "img_key": "p13"
+  },
+  {
+    "id": 77,
+    "name_cn": "星幣國王",
+    "name_en": "King of Pentacles",
+    "type": "pentacles",
+    "meaning_upright": "成功、企業家、富裕、可靠",
+    "meaning_reversed": "貪婪、腐敗、固執、破產",
+    "img_key": "p14"
+  }
+]

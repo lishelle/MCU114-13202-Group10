@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp"
+    android:paddingTop="100dp"
+    android:paddingBottom="100dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/card555">
+
+    <EditText
+        android:id="@+id/etMsg"
+        android:hint="請輸入回饋"
+        android:minLines="3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textColorHint="#CCCCCC"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSend"
+        android:text="送出回饋"
+        android:layout_marginTop="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/golden_yellow"/>
+</LinearLayout>
