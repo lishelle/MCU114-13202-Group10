@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/card555"
+    android:paddingStart="40dp"
+    android:paddingEnd="40dp"
+    android:paddingTop="100dp"
+    android:paddingBottom="100dp">
+
+    <LinearLayout
+        android:id="@+id/cards_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <!-- Past Card Slot -->
+        <LinearLayout style="@style/CardSlotContainer">
+
+            <ImageView
+                android:id="@+id/image_past"
+                style="@style/CardSlotImage"
+                tools:srcCompat="@drawable/card777" />
+
+            <TextView
+                android:id="@+id/text_past"
+                style="@style/CardSlotTitle"
+                android:text="過去" />
+        </LinearLayout>
+
+        <ImageView style="@style/CardSlotSeparator" />
+
+        <!-- Present Card Slot -->
+        <LinearLayout style="@style/CardSlotContainer">
+
+            <ImageView
+                android:id="@+id/image_present"
+                style="@style/CardSlotImage"
+                tools:srcCompat="@drawable/card777" />
+            <TextView
+                android:id="@+id/text_present"
+                style="@style/CardSlotTitle"
+                android:text="現在" />
+        </LinearLayout>
+
+        <ImageView style="@style/CardSlotSeparator" />
+
+        <!-- Future Card Slot -->
+        <LinearLayout style="@style/CardSlotContainer">
+
+            <ImageView
+                android:id="@+id/image_future"
+                style="@style/CardSlotImage"
+                tools:srcCompat="@drawable/card777" />
+            <TextView
+                android:id="@+id/text_future"
+                style="@style/CardSlotTitle"
+                android:text="未來" />
+        </LinearLayout>
+    </LinearLayout>
+    
+    <FrameLayout
+        android:id="@+id/button_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_draw_cards"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/golden_yellow"
+            android:text="抽三張牌" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_card_meanings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/golden_yellow"
+            android:text="查看卡牌涵義"
+            android:visibility="gone" />
+            
+    </FrameLayout>
+
+    <ProgressBar
+        android:id="@+id/loading_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+</RelativeLayout>

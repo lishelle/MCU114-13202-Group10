@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">塔羅牌占卜</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="card_name_orientation">%1$s %2$s</string>
+</resources>
